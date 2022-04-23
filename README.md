@@ -1,3 +1,15 @@
+# StyleGAN-XL Class Interpolation
+
+Generate a video of StyleGAN-XL interpolation between multiple ImageNet classes
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tripplyons/stylegan_xl/blob/master/notebooks/class-interpolation.ipynb)
+
+[![GitHub stars](https://img.shields.io/github/stars/tripplyons/stylegan_xl?style=social&label=Star&maxAge=2592000)](https://GitHub.com/tripplyons/stylegan_xl)
+
+[Demo Video](https://youtu.be/idTh36uzfVM)
+
+# Original README
+
 <img src="media/banner.png">
 
 
