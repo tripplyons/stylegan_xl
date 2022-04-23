@@ -26,3 +26,5 @@ tags
 *.pkl
 *.mp4
 *.pyc
+
+.DS_Store
